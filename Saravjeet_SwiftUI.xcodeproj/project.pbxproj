@@ -14,6 +14,7 @@
 		ADBA1642297D0EC10078C937 /* Saravjeet_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA1641297D0EC10078C937 /* Saravjeet_SwiftUITests.swift */; };
 		ADBA164C297D0EC10078C937 /* Saravjeet_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA164B297D0EC10078C937 /* Saravjeet_SwiftUIUITests.swift */; };
 		ADBA164E297D0EC10078C937 /* Saravjeet_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA164D297D0EC10078C937 /* Saravjeet_SwiftUIUITestsLaunchTests.swift */; };
+		ADBA165B297D1AA50078C937 /* Page_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA165A297D1AA40078C937 /* Page_Two.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		ADBA1647297D0EC10078C937 /* Saravjeet_SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Saravjeet_SwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADBA164B297D0EC10078C937 /* Saravjeet_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Saravjeet_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		ADBA164D297D0EC10078C937 /* Saravjeet_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Saravjeet_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ADBA165A297D1AA40078C937 /* Page_Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page_Two.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				ADBA1632297D0EBF0078C937 /* ContentView.swift */,
 				ADBA1634297D0EC10078C937 /* Assets.xcassets */,
 				ADBA1636297D0EC10078C937 /* Preview Content */,
+				ADBA165A297D1AA40078C937 /* Page_Two.swift */,
 			);
 			path = Saravjeet_SwiftUI;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADBA165B297D1AA50078C937 /* Page_Two.swift in Sources */,
 				ADBA1633297D0EBF0078C937 /* ContentView.swift in Sources */,
 				ADBA1631297D0EBF0078C937 /* Saravjeet_SwiftUIApp.swift in Sources */,
 			);
